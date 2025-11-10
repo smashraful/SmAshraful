@@ -8,7 +8,7 @@
 
 ## 📫 Connect With Me
 - **Email:** sdsmash95@email.com
-- **GitHub:** [github.com/SmAshraful](https://github.com/SmAshraful)
+- **GitHub:** [github.com/SmAshraful](https://github.com/smashraful)
 - **LinkedIn:** [linkedin.com/in/smashraful](https://linkedin.com/in/smashraful)
 - 
 ### Thanks for visiting my profile! 🚀 Let's build something amazing together! 😊
