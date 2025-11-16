@@ -1,6 +1,6 @@
 <!-- 🌈 Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F1FF&center=true&vCenter=true&width=900&lines=Ashraful Islam+%7C+Software+Development+Engineer;TypeScript+%7C+JavaScript+Expert;Rust+%7C+Python+Developer;AI+%7C+Automation+%7C+System+Architecture" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F1FF&center=true&vCenter=true&width=900&lines=Ashraful+Islam+%7C+Software+Development+Engineer;TypeScript+%7C+JavaScript+Expert;Rust+%7C+Python+Developer;AI+%7C+Automation+%7C+System+Architecture" />
 </p>
 
 ---
