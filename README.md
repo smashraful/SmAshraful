@@ -66,18 +66,8 @@ A personal strategist featuring:
 
 ---
 
-### 🎮 **Twitch Chat Engagement Bot**
-Built with **TMI.js**, gives real-time viewer engagement feedback for streamers.
-
----
-
-## 📈 GitHub Stats
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
-</p>
-
-> ⚠️ Replace **YOUR_USERNAME** with your actual GitHub username.
+### 🎮 **Automation Bot**
+Built with **Telegram.js**, gives real-time tradin update for traders.
 
 ---
 
