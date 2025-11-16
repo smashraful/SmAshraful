@@ -104,10 +104,8 @@ Focused on **AI automation**, **backend architecture**, **Rust systems**, and **
 
 # 🏆 GitHub Trophy Wall
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&row=1&margin-w=20" />
+  <img src="https://github-profile-trophy.vercel.app/?username=smashraful&theme=discord&no-frame=true&row=1&margin-w=20" />
 </p>
-
-> Replace **YOUR_USERNAME** with your GitHub username.
 
 ---
 
