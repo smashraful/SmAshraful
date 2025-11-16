@@ -77,7 +77,7 @@ Focused on **AI automation**, **backend architecture**, **Rust systems**, and **
 
 ## **Tools & DevOps**
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,vscode" />
 </p>
 
 ---
