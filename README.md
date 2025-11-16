@@ -8,7 +8,7 @@
 # ⚡ Building Intelligent, Automated & Modern Systems
 
 ### **Software Development Engineer**  
-Expert in **TypeScript**, **JavaScript**, with real-world experience in **Rust** & **Python**.  
+Expert in **TypeScript**, **JavaScript**, with real-world experience in **Rust**.  
 Focused on **AI automation**, **backend architecture**, **Rust systems**, and **next-gen SaaS platforms**.
 
 ---
