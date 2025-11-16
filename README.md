@@ -1,14 +1,99 @@
-<h1 align="center"><b>Hi there! It's me Ashraful Islam </b> ☺️</h1>
+# 🌐 AshLab — Building Modern Apps, Smart Systems & Future-Tech
+### Hi, I'm **Sm Ashraful**  
+**Full-Stack Developer • Blockchain Enthusiast • AI Builder**
 
-<p align="center">
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Headland+One&weight=500&pause=1000&color=FF6500&center=true&vCenter=true&width=435&lines=%F0%9F%9A%80+Tech+Innovator%2C+Team+Leader.;%F0%9F%9A%80Problem+Solver.;%F0%9F%94%A5+Turning+challenges+into+solutions%2C;+One+line+of+code+at+a+time.;%F0%9F%92%A1+Building+software%2C+leading+teams%2C;And+shaping+the+future.;%E2%9A%A1+Code%2C+Lead%2C+Inspire+%E2%80%93+Repeat.;%F0%9F%8E%AF+From+ideas+to+execution%2C;+I+make+things+happen." alt="Typing SVG" /></a></a>
+🚀 I create scalable systems, beautiful interfaces, and intelligent applications.
+
+---
+
+## 🔥 What I Do
+- ⚡ Full-Stack Development (Next.js • React • Node.js • Express.js)
+- 🧱 Backend Engineering (REST APIs • Event-driven systems • Non-blocking I/O)
+- 🛢 Databases (MongoDB • PostgreSQL • Prisma • Mongoose)
+- 🤖 AI & Automation (ChatGPT integrations • MCP Tools • AI Agents)
+- 🔗 Blockchain (Ethereum • Solana • Smart Contract Integration)
+- 📡 Real-time builds (WebSockets • Twitch bots with TMI.js)
+- 📱 OAuth (Google • Facebook • Custom Providers)
+- 🛠 DevOps & Tools (Docker • GitHub Actions • VirtualBox)
+
+---
+
+## 🧪 Current Focus
+- 🎯 AI-powered Life Coach App  
+- 🌐 Building **The Ash Lab** portfolio using **Astro**  
+- 🛒 Next.js e-commerce system (users, orders, products)  
+- 🧠 Deep dive into Node.js event-driven architecture  
+- 🔐 Security alerts for suspicious device login  
+- 🦀 Rust learning journey  
+- ⚙️ Chat-driven portfolio using TypeScript MCP + Rust tools  
+
+---
+
+## 🛠️ Tech Stack
+
+### **Frontend**
+![Frontend](https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,astro)
+
+### **Backend**
+![Backend](https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres)
+
+### **Blockchain**
+![Blockchain](https://skillicons.dev/icons?i=solidity,rust)
+
+### **Tools**
+![Tools](https://skillicons.dev/icons?i=docker,git,github,linux,vscode)
+
+---
+
+## 🚀 Featured Projects
+
+### 🛒 **SundarbanHoneyBD.com**
+A full e-commerce system with:
+- Multiple product types (regular, offer, special, deals)
+- Advanced shipping rules (fixed, range, free on conditions)
+- Guest checkout mode  
+- Admin dashboard  
+- SMS notifications on order updates  
+
+---
+
+### 🤖 **AI Life Coach App (In Progress)**
+A personal strategist featuring:
+- Daily goal check-ins  
+- Emotional & sentiment analysis  
+- Voice note AI  
+- Calendar & habit syncing  
+
+---
+
+### 🎮 **Twitch Chat Engagement Bot**
+Built with **TMI.js**, gives real-time viewer engagement feedback for streamers.
+
+---
+
+## 📈 GitHub Stats
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" />
 </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SmAshraful&label=Profile%20views&color=FF6500&style=flat" alt="smashraful" /> </p>
+> ⚠️ Replace **YOUR_USERNAME** with your actual GitHub username.
 
-## 📫 Connect With Me
-- **Email:** sdsmash95@email.com
-- **GitHub:** [github.com/SmAshraful](https://github.com/smashraful)
-- **LinkedIn:** [linkedin.com/in/smashraful](https://linkedin.com/in/smashraful)
-- 
-### Thanks for visiting my profile! 🚀 Let's build something amazing together! 😊
+---
+
+## 🧩 About Me
+💡 Turning ideas into production-ready systems.  
+🧠 Passion for architecture, automation, and scalable backend design.  
+🌱 Constantly exploring Rust, system design, and AI automation.  
+🧪 Experimenting with MCP servers, GitHub Copilot CLI & Gemini CLI.  
+
+---
+
+## 📫 Reach Me
+- 🌐 Website: **theashlab.com** (coming soon)  
+- ✉️ Email: smashraful.dev@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/smashraful
+
+---
+
+⭐ **If you like my work, feel free to star my repositories!**
