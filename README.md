@@ -82,7 +82,7 @@ Focused on **AI automation**, **backend architecture**, **Rust systems**, and **
 
 ---
 
-# 🧠 Tech Stack (Condensed Summary)
+# 🧠 Tech Stack
 - **Frontend:** React, Next.js, Astro, Tailwind CSS  
 - **Backend:** Node.js, Express.js, Rust (Axum/Actix), Python  
 - **Databases:** PostgreSQL, MongoDB, Prisma ORM, Mongoose  
@@ -92,7 +92,7 @@ Focused on **AI automation**, **backend architecture**, **Rust systems**, and **
 
 ---
 
-# 🌟 What I Bring (Suggested Extra Section)
+# 🌟 What I Bring
 - Strong architectural thinking & scalable system design  
 - Experience leading projects, teams, and technical decisions  
 - Ability to turn ideas into production-ready applications  
@@ -102,7 +102,7 @@ Focused on **AI automation**, **backend architecture**, **Rust systems**, and **
 
 ---
 
-# 🏆 GitHub Trophy Wall (Neon)
+# 🏆 GitHub Trophy Wall
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&row=1&margin-w=20" />
 </p>
