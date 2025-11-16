@@ -1,89 +1,122 @@
-# 🌐 AshLab — Building Modern Apps, Smart Systems & Future-Tech
-### Hi, I'm **Sm Ashraful**  
-**Full-Stack Developer • Blockchain Enthusiast • AI Builder**
-
-🚀 I create scalable systems, beautiful interfaces, and intelligent applications.
-
----
-
-## 🔥 What I Do
-- ⚡ Full-Stack Development (Next.js • React • Node.js • Express.js)
-- 🧱 Backend Engineering (REST APIs • Event-driven systems • Non-blocking I/O)
-- 🛢 Databases (MongoDB • PostgreSQL • Prisma • Mongoose)
-- 🤖 AI & Automation (ChatGPT integrations • MCP Tools • AI Agents)
-- 🔗 Blockchain (Ethereum • Solana • Smart Contract Integration)
-- 📡 Real-time builds (WebSockets • Twitch bots with TMI.js)
-- 📱 OAuth (Google • Facebook • Custom Providers)
-- 🛠 DevOps & Tools (Docker • GitHub Actions • VirtualBox)
+<!-- 🌈 Animated Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F1FF&center=true&vCenter=true&width=900&lines=AshLab+%7C+Software+Development+Engineer;TypeScript+%7C+JavaScript+Expert;Rust+%7C+Python+Developer;AI+%7C+Automation+%7C+System+Architecture" />
+</p>
 
 ---
 
-## 🧪 Current Focus
-- 🎯 AI-powered Life Coach App  
-- 🌐 Building **The Ash Lab** portfolio using **Astro**  
-- 🛒 Next.js e-commerce system (users, orders, products)  
-- 🧠 Deep dive into Node.js event-driven architecture  
-- 🔐 Security alerts for suspicious device login  
-- 🦀 Rust learning journey  
-- ⚙️ Chat-driven portfolio using TypeScript MCP + Rust tools  
+# ⚡ AshLab — Building Intelligent, Automated & Modern Systems
+
+### **Software Development Engineer**  
+Expert in **TypeScript**, **JavaScript**, with real-world experience in **Rust** & **Python**.  
+Focused on **AI automation**, **backend architecture**, **Rust systems**, and **next-gen SaaS platforms**.
 
 ---
 
-## 🛠️ Tech Stack
-
-### **Frontend**
-![Frontend](https://skillicons.dev/icons?i=ts,js,nextjs,react,tailwind,astro)
-
-### **Backend**
-![Backend](https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres)
-
-### **Blockchain**
-![Blockchain](https://skillicons.dev/icons?i=solidity,rust)
-
-### **Tools**
-![Tools](https://skillicons.dev/icons?i=docker,git,github,linux,vscode)
+# 🚀 What I Do
+- Architect scalable backend & event-driven systems  
+- Build AI-powered automation platforms & intelligent bots  
+- Design modern full-stack applications (Next.js, Node.js, Rust)  
+- Create automation tools for Telegram, Twitter (X), LinkedIn  
+- Build real-world SaaS, e-commerce, and trading applications  
+- Work with high-performance Rust services for automation & data  
+- Develop secure, clean, maintainable engineering solutions  
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛒 **SundarbanHoneyBD.com**
-A full e-commerce system with:
-- Multiple product types (regular, offer, special, deals)
-- Advanced shipping rules (fixed, range, free on conditions)
-- Guest checkout mode  
-- Admin dashboard  
-- SMS notifications on order updates  
+# 🎯 Current Focus
+- 🤖 **AI-powered SaaS system** for automated backend architecture (Rust + Astro)  
+- 🧠 Real-time automation bots (Python) for business & social workflows  
+- 🛒 Modern e-commerce ecosystem using **Next.js + Node.js**  
+- 🦀 Rust systems: async services, CLI tools, automation pipelines  
+- 🔄 Cross-platform bot ecosystem (Telegram, Twitter/X, LinkedIn)  
 
 ---
 
-### 🤖 **AI Life Coach App (In Progress)**
-A personal strategist featuring:
-- Daily goal check-ins  
-- Emotional & sentiment analysis  
-- Voice note AI  
-- Calendar & habit syncing  
+# 🏗️ Applications I’m Building / Maintaining
+
+### 🛒 **E-Commerce Platforms**
+- **SundarbanHoneyBD.com** — production-scale commerce platform  
+- **ecom.theashlab.com** — next-gen experimental e-commerce system  
+
+### 🦀 **Rust-Based Systems**
+- **td.theashlab.com** — Rust async To-Do app (minimal but powerful)
+
+### 💹 **Trading Systems**
+- **cefi.kvants.ai** — CeFi automated trading + market system  
+
+### 🤖 **Automation & Bots**
+- Telegram Bot (task automation)  
+- Twitter (X) Bot (content & engagement automation)  
+- LinkedIn Automation Bot  
+- AI-based workflow engines  
 
 ---
 
-### 🎮 **Automation Bot**
-Built with **Telegram.js**, gives real-time tradin update for traders.
+# 🛠️ Tech I Work With
+
+## **Languages**
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,rust,python" />
+</p>
+
+## **Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,astro,tailwind" />
+</p>
+
+## **Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+## **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
+</p>
+
+## **Tools & DevOps**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,git,github,vscode" />
+</p>
 
 ---
 
-## 🧩 About Me
-💡 Turning ideas into production-ready systems.  
-🧠 Passion for architecture, automation, and scalable backend design.  
-🌱 Constantly exploring Rust, system design, and AI automation.  
-🧪 Experimenting with MCP servers, GitHub Copilot CLI & Gemini CLI.  
+# 🧠 Tech Stack (Condensed Summary)
+- **Frontend:** React, Next.js, Astro, Tailwind CSS  
+- **Backend:** Node.js, Express.js, Rust (Axum/Actix), Python  
+- **Databases:** PostgreSQL, MongoDB, Prisma ORM, Mongoose  
+- **Automation:** Python bots, AI workflows, event-driven systems  
+- **DevOps:** Docker, GitHub Actions, Linux  
+- **Architecture:** API design, microservices, async systems, queues  
 
 ---
 
-## 📫 Reach Me
+# 🌟 What I Bring (Suggested Extra Section)
+- Strong architectural thinking & scalable system design  
+- Experience leading projects, teams, and technical decisions  
+- Ability to turn ideas into production-ready applications  
+- Passion for automation, backend engineering, and Rust  
+- Fast learning, clean coding, and problem-solving discipline  
+- Real-world experience in SaaS, bots, e-commerce & trading  
+
+---
+
+# 🏆 GitHub Trophy Wall (Neon)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=discord&no-frame=true&row=1&margin-w=20" />
+</p>
+
+> Replace **YOUR_USERNAME** with your GitHub username.
+
+---
+
+# 📬 Connect With Me
 - 🌐 Website: **theashlab.com** (coming soon)  
-- ✉️ Email: smashraful.dev@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/smashraful
+- 📨 Email: smashraful.dev@gmail.com
+- 🐦 Twitter: -- 
+- 💼 LinkedIn: linkedin.com/in/smashraful
 
 ---
 
-⭐ **If you like my work, feel free to star my repositories!**
+⭐ _If you enjoy my work or find it inspiring, feel free to star my repositories!_
