@@ -1,120 +1,43 @@
-<!-- 🌈 Animated Banner -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3500&color=00F1FF&center=true&vCenter=true&width=900&lines=Ashraful+Islam+%7C+Software+Development+Engineer;TypeScript+%7C+JavaScript+Expert;Rust+%7C+Python+Developer;AI+%7C+Automation+%7C+System+Architecture" />
-</p>
+# Hi, I'm Ashraful 👋
 
----
+**Full Stack Engineer @ [Core Devs Ltd](https://github.com/CoreDevsLtd) — Node.js · TypeScript · React**
+📍 Dhaka, Bangladesh
 
-# ⚡ Building Intelligent, Automated & Modern Systems
+I build backend systems that stay up: real-time trading platforms, AI automation pipelines, and e-commerce backends. 4 years in TypeScript/Node.js — 3+ of them owning systems end to end, from architecture to deployment to production support.
 
-### **Software Development Engineer**  
-Expert in **TypeScript**, **JavaScript**, with real-world experience in **Rust**.  
-Focused on **AI automation**, **backend architecture**, **Rust systems**, and **next-gen SaaS platforms**.
+Most of my production work lives in private client repos, so here's what it is and where it runs:
 
----
+## 🚀 Production systems I've built
 
-# 🚀 What I Do
-- Architect scalable backend & event-driven systems  
-- Build AI-powered automation platforms & intelligent bots  
-- Design modern full-stack applications (Next.js, Node.js, Rust)  
-- Create automation tools for Telegram, Twitter (X), LinkedIn  
-- Build real-world SaaS, e-commerce, and trading applications  
-- Work with high-performance Rust services for automation & data  
-- Develop secure, clean, maintainable engineering solutions  
+| System | What it does | Where |
+|---|---|---|
+| **Real-Time Trading SaaS** | REST + WebSocket services for trade execution, account management & portfolio sync — 300 concurrent traders, ~1,000 orders/day through Binance & Bybit integrations | [cefi.kvants.ai](https://cefi.kvants.ai) |
+| **AI Trading Automation** | Ingests trading-halt news + live market data → AI sentiment analysis → auto-places orders that pass user-defined profitability rules | private (client) |
+| **Content-Generation Platform** | Microservices architecture I designed: keyword-driven search → OpenAI generation → grammar / duplication / SEO quality gates → automated publishing | private (client) |
+| **Telegram Signal Trading Engine** | Parses Telegram trade signals and places orders across all connected accounts — separate paper-trading & live-trading modes | private (client) |
+| **Blockchain E-commerce** | Crypto payments, token purchase & staking, plus PayPal workflows and an automated raffle system | [meanaraptor.vercel.app](https://meanaraptor.vercel.app) |
+| **Sundarban Honey BD** | Complete e-commerce backend for a local retailer — 1,000+ regular customer orders | [sundarbanhoneybd.com](https://sundarbanhoneybd.com) |
 
----
+**The pattern in everything I build:** hard third-party integrations — exchanges, OpenAI, Telegram, PayPal, blockchain — turned into boring, reliable production systems. Redis caching cut our trading API response times by roughly two-thirds. Zero unplanned downtime since deployment.
 
-# 🎯 Current Focus
-- 🤖 **AI-powered SaaS system** for automated backend architecture (Rust + Astro)  
-- 🧠 Real-time automation bots (Python) for business & social workflows  
-- 🛒 Modern e-commerce ecosystem using **Next.js + Node.js**  
-- 🦀 Rust systems: async services, CLI tools, automation pipelines  
-- 🔄 Cross-platform bot ecosystem (Telegram, Twitter/X, LinkedIn)  
+## 🛠 Stack
 
----
+**Core:** TypeScript · Node.js · NestJS · Express · React · Next.js
+**Data:** PostgreSQL · MongoDB · Redis · WebSockets
+**Ops & Quality:** Docker · AWS (EC2, S3, Lambda) · Nginx · GitHub Actions · Jest
 
-# 🏗️ Applications I’m Building / Maintaining
-
-### 🛒 **E-Commerce Platforms**
-- **SundarbanHoneyBD.com** — production-scale commerce platform  
-- **ecom.theashlab.com** — next-gen experimental e-commerce system  
-
-### 🦀 **Rust-Based Systems**
-- **td.theashlab.com** — Rust async To-Do app (minimal but powerful)
-
-### 💹 **Trading Systems**
-- **cefi.kvants.ai** — CeFi automated trading + market system  
-
-### 🤖 **Automation & Bots**
-- Telegram Bot (task automation)  
-- Twitter (X) Bot (content & engagement automation)  
-- LinkedIn Automation Bot  
-- AI-based workflow engines  
-
----
-
-# 🛠️ Tech I Work With
-
-## **Languages**
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,rust,python" />
+  <img src="https://skillicons.dev/icons?i=ts,js,nodejs,nestjs,express,react,nextjs,postgres,mongodb,redis,docker,aws,nginx,githubactions,jest&perline=8" alt="Tech stack icons" />
 </p>
 
-## **Frontend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,astro,tailwind" />
-</p>
+**On the side:** exploring Rust (async services, CLI tools) and Python automation.
 
-## **Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+## 🧭 How I work
 
-## **Databases**
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
-</p>
+- Architecture first — design the system, then write the code
+- Metrics over adjectives — if I can't measure it, I don't claim it
+- Mentoring through code review in a ~10-engineer team
 
-## **Tools & DevOps**
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,linux,git,github,vscode" />
-</p>
+## 📫 Reach me
 
----
-
-# 🧠 Tech Stack
-- **Frontend:** React, Next.js, Astro, Tailwind CSS  
-- **Backend:** Node.js, Express.js, Rust (Axum/Actix), Python  
-- **Databases:** PostgreSQL, MongoDB, Prisma ORM, Mongoose  
-- **Automation:** Python bots, AI workflows, event-driven systems  
-- **DevOps:** Docker, GitHub Actions, Linux  
-- **Architecture:** API design, microservices, async systems, queues  
-
----
-
-# 🌟 What I Bring
-- Strong architectural thinking & scalable system design  
-- Experience leading projects, teams, and technical decisions  
-- Ability to turn ideas into production-ready applications  
-- Passion for automation, backend engineering, and Rust  
-- Fast learning, clean coding, and problem-solving discipline  
-- Real-world experience in SaaS, bots, e-commerce & trading  
-
----
-
-# 🏆 GitHub Trophy Wall
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=smashraful&theme=discord&no-frame=true&row=1&margin-w=20" />
-</p>
-
----
-
-# 📬 Connect With Me
-- 🌐 Website: **theashlab.com** (coming soon)  
-- 📨 Email: smashraful.dev@gmail.com
-- 🐦 Twitter: -- 
-- 💼 LinkedIn: linkedin.com/in/smashraful
-
----
-
-⭐ _If you enjoy my work or find it inspiring, feel free to star my repositories!_
+📧 smashraful.dev@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/smashraful/) · 🌐 [Portfolio](https://ashraful-protfolio.vercel.app)
